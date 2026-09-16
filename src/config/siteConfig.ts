@@ -32,7 +32,7 @@ export const siteConfig: SiteConfig = {
   phoneHref: "tel:+447587764215",
   emailDisplay: "info@xnetwork.online",
   emailHref: "mailto:info@xnetwork.online",
-  serviceAreaSummary: "Harrow, Wembley, Pinner & Greater London",
+  serviceAreaSummary: "Harrow",
   serviceAreas: ["Harrow", "Wembley", "Pinner", "London"],
   postcodes: ["HA1", "HA2", "HA3", "HA5", "HA9", "NW9", "UB6"],
   openingHours: "[OPENING HOURS]",
