@@ -42,6 +42,6 @@ export const siteConfig: SiteConfig = {
   paymentMethodsText: "We currently accept [CARD / CASH / BANK TRANSFER / OTHER ACTUAL METHODS]. Please confirm your preferred payment method when booking.",
   turnaroundText: "Typical turnaround: [INSERT ACTUAL TURNAROUND]",
   freeCollectionFootnote: "*Free collection and delivery on qualifying orders within our service area. Please call for availability and current terms.",
-  newCustomerOffer: "[INSERT CURRENT OFFER]",
+  newCustomerOffer: "[FREE PICK UP & DELIVERY]",
   copyrightYear: new Date().getFullYear(),
 };
